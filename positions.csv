@@ -1,0 +1,41 @@
+person_ID,job_title,position_type,department_name,department_ID,start_date
+34530,Assistant Professor I,Faculty,Energy Sciences Department,101028,2003
+32967,Assistant Professor II,Faculty,Energy Sciences Department,101028,2008
+35477,Assistant Professor III,Faculty,Energy Sciences Department,101028,2002
+15387,Assistant Professor IV,Faculty,Energy Sciences Department,101028,2003
+29418,Assistant Professor V,Faculty,Energy Sciences Department,101028,2005
+24031,Assistant Professor VI,Faculty,Energy Sciences Department,101028,1999
+20720,Associate Curator of South Library,Faculty,Energy Sciences Department,101028,2005
+25601,Associate Curator of Central Library,Faculty,Energy Sciences Department,101028,2010
+10625,Professor of Kinetic Energy,Faculty,Energy Sciences Department,101028,2008
+10307,Professor of Elastic Energy,Faculty,Energy Sciences Department,101028,2008
+23042,Curator of South Library,Faculty,Energy Sciences Department,101028,2008
+27055,Curator of Central Library,Faculty,Energy Sciences Department,101028,1999
+41590,Curator of West Library,Faculty,Energy Sciences Department,101028,2004
+35404,Professor of Kinetic Energy,Faculty,Energy Sciences Department,101028,2008
+20906,Professor of Elastic Energy,Faculty,Energy Sciences Department,101028,2005
+10809,Professor of Kinetic Energy,Faculty,Energy Sciences Department,101028,2006
+29408,Professor of Elastic Energy,Faculty,Energy Sciences Department,101028,2002
+45309,Research Professor I,Faculty,Energy Sciences Department,101028,2007
+28101,Research Professor II,Faculty,Energy Sciences Department,101028,1999
+45800,Research Professor III,Faculty,Energy Sciences Department,101028,2007
+28905,Assistant Professor I,Faculty,Geothermal Technology Department,102017,2001
+22504,Assistant Professor II,Faculty,Geothermal Technology Department,102017,2006
+23809,Assistant Professor III,Faculty,Geothermal Technology Department,102017,2008
+16909,Assistant Professor IV,Faculty,Geothermal Technology Department,102017,2008
+15607,Assistant Professor V,Faculty,Geothermal Technology Department,102017,2003
+30606,Associate Curator  of North Library,Faculty,Geothermal Technology Department,102017,2001
+24206,Associate Curator  of West Library,Faculty,Geothermal Technology Department,102017,2008
+22107,Associate Curator of East Library,Faculty,Geothermal Technology Department,102017,2003
+19608,Professor of Thermal Energy,Faculty,Geothermal Technology Department,102017,2001
+30120,Professor of Gravitational Energy,Faculty,Geothermal Technology Department,102017,2003
+18204,Curator of North Library,Faculty,Geothermal Technology Department,102017,2005
+39209,Curator of East Library,Faculty,Geothermal Technology Department,102017,2002
+26802,Professor of Thermodynamics,Faculty,Geothermal Technology Department,102017,2000
+31102,Professor of Cogeneration,Faculty,Geothermal Technology Department,102017,2010
+23083,Professor of Thermodynamics,Faculty,Geothermal Technology Department,102017,2007
+39083,Professor of Cogeneration,Faculty,Geothermal Technology Department,102017,2005
+30985,Professor of Thermodynamics,Faculty,Geothermal Technology Department,102017,2002
+23883,Professor of Cogeneration,Faculty,Geothermal Technology Department,102017,2010
+21486,Research Professor I,Faculty,Geothermal Technology Department,102017,2001
+39588,Research Professor II,Faculty,Geothermal Technology Department,102017,2007
